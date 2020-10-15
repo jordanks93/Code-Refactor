@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Updated css to call header element instead of class for semantic html*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -188,6 +188,7 @@ p {
     font-size: 36px;
 }
 
+/*Updated css to call footer element instead of class for semantic html*/
 footer {
     padding: 30px;
     clear: both;
