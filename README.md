@@ -25,8 +25,8 @@ This project is improving and simplifying a website for Horiseon, a marketing co
 
 
 ## Visual:
-![Website Screenshot 1 - top](screenshots/websiteScreenshot1.png)
-![Website Screenshot 1 - bottom](screenshots/websiteScreenshot2.png)
+![Website Screenshot 1 - top](./screenshots/websiteScreenshot1.PNG)
+![Website Screenshot 1 - bottom](./screenshots/websiteScreenshot2.PNG)
 ![Horiseon Marketing Website](https://jordanks93.github.io/homework1/)
 
 
