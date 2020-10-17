@@ -15,6 +15,7 @@ header {
     color: #ffffff;
 }
 
+/*Consolodated multiple header element calls with matching code into one*/
 header h1 {
     display: inline-block;
     font-size: 48px;
