@@ -1,6 +1,4 @@
-# homework1
-
-## Project Name: Bootcamp homework 1 - Horiseon Marketing Website
+## Project Name: Horiseon Marketing Website - Refactor
 
 ## Description:
 This project is improving and simplifying a website for Horiseon, a marketing company. The website will showcase the services and benefits Horiseon provides its customers. 
