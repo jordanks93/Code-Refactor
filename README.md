@@ -27,7 +27,7 @@ This project is improving and simplifying a website for Horiseon, a marketing co
 
 ![Website Screenshot 1 - bottom](./screenshots/websiteScreenshot2.PNG)
 
-[Horiseon Marketing Website Link](https://jordanks93.github.io/homework1/)
+[Horiseon Marketing Website Link](https://jordanks93.github.io/Code-Refactor/)
 
 
 ## Author: 
